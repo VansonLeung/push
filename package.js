@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'raix:push',
+  name: 'vansonhk:push',
   version: '3.0.3-rc.7',
   summary: 'Isomorphic Push notifications for APN and GCM',
-  git: 'https://github.com/raix/push.git'
+  git: 'https://github.com/VansonLeung/push.git'
 });
 
 // Server-side push deps
