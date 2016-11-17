@@ -1,6 +1,6 @@
 Package.describe({
   name: 'vansonhk:push',
-  version: '3.0.4-rc.8',
+  version: '3.0.5',
   summary: 'Isomorphic Push notifications for APN and GCM',
   git: 'https://github.com/VansonLeung/push.git'
 });
